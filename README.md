@@ -16,7 +16,6 @@
 ## My Skills
 
 #### Main Stack:
-
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
@@ -60,3 +59,5 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<a href="https://app.rocketseat.com.br/me/adeiltonpolovodoff"><img align="center" src="https://app.rocketseat.com.br/api/rocketid/share?slug=adeiltonpolovodoff&type=card" width="280" alt="Adeilton da Silva Polovodoff's Rocket ID"/></a>
+
